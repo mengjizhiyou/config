@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sample>
+   <Sample1 id="000">
+      <table1>1000</table1>
+      <table2>1234</table2>
+      <table3>config</table3>      
+   </Sample1>
+</Sample>
